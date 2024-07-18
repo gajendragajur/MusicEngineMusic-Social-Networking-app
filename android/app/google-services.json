@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "449796188066",
+    "firebase_url": "https://soundengine-nina.firebaseio.com",
+    "project_id": "soundengine-nina",
+    "storage_bucket": "soundengine-nina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449796188066:android:828b176768770c8b",
+        "android_client_info": {
+          "package_name": "com.musicengine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaN1wcTZb5WPssOmq4lUF_XW7D2AfTQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449796188066-3sudd0n9mv30et6lqtf8klf98at2dp7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449796188066-qqouaj5i9br8bnk94mi2h5ttqiv900e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninacoder.app.soundengine"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4849317184481164~2679117974"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449796188066:android:004d5a12f5a9479f",
+        "android_client_info": {
+          "package_name": "com.ninacoder.soundengine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaN1wcTZb5WPssOmq4lUF_XW7D2AfTQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449796188066-3sudd0n9mv30et6lqtf8klf98at2dp7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449796188066-qqouaj5i9br8bnk94mi2h5ttqiv900e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninacoder.app.soundengine"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4849317184481164~4641041029"
+    }
+  ],
+  "configuration_version": "1"
+}
